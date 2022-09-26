@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @ktyntang
 
-- 🌱 Full Stack Web Developer
+- 🌱 Full-stack developer with an appetite for challenging work in a tech-forward and environmentally conscious company. I am cautiously optimistic about the future of humanity and want to spend my career making long-lasting good.
 - 💻 Javascript, React, Node.js, Express.js, HTML5, CSS3 + Grid/Flexbox/Bootstrap. Python3, Flask.
 - 📫 Reach me at ktyntang@gmail.com
 
