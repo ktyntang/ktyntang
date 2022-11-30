@@ -1,7 +1,10 @@
 ### 👋 Hi, I’m @ktyntang
 
 - 🌱 Full-stack developer with an appetite for challenging work in a tech-forward and environmentally conscious company. 
-- 💻 Javascript, React, Node.js, Express.js, HTML5, CSS3 + Grid/Flexbox/Bootstrap. Python3, Flask.
+- 💻 Javascript, Typescript, React, Redux, Node.js, Express.js, HTML5, CSS3.
+- 💻 PostgreSQL, NoSQL, Redis,	AWS, Cloud Storage, Docker, Jest.
+- 💻 Python3, Flask, Selenium
+
 - 📫 Currently looking for job opportunities so please reach me at ktyntang@gmail.com
 
 ### 📊 GitHub Statistics
