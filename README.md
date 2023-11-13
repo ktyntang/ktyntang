@@ -7,6 +7,7 @@
 
 - 📫 Currently looking for job opportunities so please reach me at ktyntang@gmail.com
 
+<!---
 ### 📊 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktyntang&show_icons=true&theme=dracula)
 
